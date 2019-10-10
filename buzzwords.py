@@ -285,5 +285,7 @@ bigData = [
     "Data Scientist", 
     "IoT", 
     "Internet of Things", 
-    "ETL"
+    "ETL",
+    "DWH",
+    "Data Mining"
 ]
